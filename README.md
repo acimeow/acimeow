@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @acimeow
 - 👀 I’m interested in data
 - 🌱 I’m currently learning Javascript
-- Next up: Python, OpenAI
-- Certified AWS Foundation
+- ☁️ Next up: Python, OpenAI
+- 📜 Certified AWS Cloud Practitioner
 - 💞️ I’m looking to collaborate on solving social issues
 - 📫 How to reach me amri.abuseman@gmail.com
 
