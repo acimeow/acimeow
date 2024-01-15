@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @acimeow
 - 👀 I’m interested in data
-- 🌱 I’m currently learning Python, AWS Certification and performance testing on k6
+- 🌱 I’m currently learning Javascript
+- Next up: Python, OpenAI
+- Certified AWS Foundation
 - 💞️ I’m looking to collaborate on solving social issues
-- 📫 How to reach me acimeow@gmail.com
+- 📫 How to reach me amri.abuseman@gmail.com
 
 <!---
 acimeow/acimeow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
